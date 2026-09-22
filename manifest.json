@@ -28,6 +28,13 @@
       "downloadUrl": "",
       "fileName": "ProxySport-v1.zip",
       "notes": ""
+    },
+    "proxy-xoay": {
+      "name": "Proxy Xoay",
+      "version": "1",
+      "downloadUrl": "",
+      "fileName": "ProxyXoay-v1.zip",
+      "notes": ""
     }
   }
 }
