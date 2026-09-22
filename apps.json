@@ -3,51 +3,44 @@
     {
       "name": "Winner",
       "version": "1.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/Winner.zip",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/winner-tool-v1/Winner.zip",
       "type": "zip"
     },
     {
       "name": "Winner AutoLogin",
-      "version": "4.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/WinnerAutoLogin.zip",
+      "version": "5.0",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/winner-v5/WinnerAutoLogin-v5.zip",
       "type": "zip"
     },
     {
       "name": "Proxy Sport",
       "version": "1.11.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/Proxy_Sport.zip",
-      "type": "zip",
-      "password": "168168"
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/proxy-sport-v1.11.0/Proxy_Sport.zip",
+      "type": "zip"
     },
     {
       "name": "Sports Manager",
-      "version": "1.1",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/SPORTS_MANAGER_FINAL_LOGIN_ALIGNED.zip",
+      "version": "2.0",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v2/SportsManager-v2.zip",
       "type": "zip"
     },
     {
       "name": "Proxy Xoay",
       "version": "1.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/ProxyXoay.zip",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/proxy-xoay-v1/ProxyXoay.zip",
       "type": "zip"
     },
     {
       "name": "WinCom2017 Cloud",
       "version": "1.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinCom2017_Cloud.1.zip",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/wincom-v1/WinCom.zip",
       "type": "zip"
     },
     {
       "name": "WinCopy",
       "version": "1.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinCopy.zip",
+      "url": "https://github.com/luubi111666888/tool-updates/releases/download/wincopy-v1/WinCopy.zip",
       "type": "zip"
-    },
-    {
-      "name": "IP Việt Nam",
-      "version": "1.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/IP.Viet.Nam.url",
-      "type": "file"
     }
   ]
 }
