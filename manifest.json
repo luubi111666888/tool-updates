@@ -1,1 +1,33 @@
-
+{
+  "schemaVersion": 1,
+  "apps": {
+    "vps-tool": {
+      "name": "VPS Tool",
+      "version": "27",
+      "downloadUrl": "",
+      "fileName": "VPS-Tool-v27.zip",
+      "notes": ""
+    },
+    "winner-auto-login": {
+      "name": "Winner Auto Login",
+      "version": "1",
+      "downloadUrl": "",
+      "fileName": "WinnerAutoLogin-v1.zip",
+      "notes": ""
+    },
+    "sports-manager": {
+      "name": "Sports Manager",
+      "version": "1",
+      "downloadUrl": "",
+      "fileName": "SportsManager-v1.zip",
+      "notes": ""
+    },
+    "proxy-sport": {
+      "name": "Proxy Sport",
+      "version": "1",
+      "downloadUrl": "",
+      "fileName": "ProxySport-v1.zip",
+      "notes": ""
+    }
+  }
+}
