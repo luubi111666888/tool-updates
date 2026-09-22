@@ -8,13 +8,13 @@
       "fileName": "VPS-Tool-v27.zip",
       "notes": ""
     },
-    "winner-auto-login": {
-      "name": "Winner Auto Login",
-      "version": "1",
-      "downloadUrl": "",
-      "fileName": "WinnerAutoLogin-v1.zip",
-      "notes": ""
-    },
+   "winner-auto-login": {
+  "name": "Winner Auto Login",
+  "version": "5",
+  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/winner-v5/WinnerAutoLogin-v5.zip",
+  "fileName": "WinnerAutoLogin-v5.zip",
+  "notes": "Winner AutoLogin V5"
+},
     "sports-manager": {
       "name": "Sports Manager",
       "version": "1",
