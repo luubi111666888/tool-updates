@@ -16,12 +16,12 @@
   "notes": "Winner AutoLogin V5"
 },
     "sports-manager": {
-      "name": "Sports Manager",
-      "version": "1",
-      "downloadUrl": "",
-      "fileName": "SportsManager-v1.zip",
-      "notes": ""
-    },
+  "name": "Sports Manager",
+  "version": "2",
+  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v2/SportsManager-v2.zip",
+  "fileName": "SportsManager-v2.zip",
+  "notes": "Sports Manager V2"
+},
     "proxy-sport": {
       "name": "Proxy Sport",
       "version": "1",
