@@ -17,10 +17,10 @@
     },
     "sports-manager": {
       "name": "Sports Manager",
-      "version": "2",
-      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v2/SportsManager-v2.zip",
-      "fileName": "SportsManager-v2.zip",
-      "notes": "Sports Manager V2"
+      "version": "3",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v3/SportsManager-v3.zip",
+      "fileName": "SportsManager-v3.zip",
+      "notes": "Sports Manager V3"
     },
     "proxy-sport": {
       "name": "Proxy Sport",
