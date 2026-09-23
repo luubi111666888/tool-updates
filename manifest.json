@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "apps": {
     "vps-tool": {
-  "name": "VPS Tool",
-  "version": "33",
-  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v33/VPS-Tool-v33.zip",
-  "fileName": "VPS-Tool-v33.zip",
-  "notes": "VPS Tool V33"
+      "name": "VPS Tool",
+      "version": "33",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v33/VPS-Tool-v33.zip",
+      "fileName": "VPS-Tool-v33.zip",
+      "notes": "VPS Tool V33"
     },
     "winner-auto-login": {
       "name": "Winner Auto Login",
@@ -16,11 +16,18 @@
       "notes": "Winner AutoLogin V5"
     },
     "sports-manager": {
-  "name": "Sports Manager",
-  "version": "5",
-  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v5/SportsManager-v5.zip",
-  "fileName": "SportsManager-v5.zip",
-  "notes": "Sports Manager V5"
+      "name": "Sports Manager",
+      "version": "5",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v5/SportsManager-v5.zip",
+      "fileName": "SportsManager-v5.zip",
+      "notes": "Sports Manager V5"
+    },
+    "check-account": {
+      "name": "Check Account",
+      "version": "21",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/check-account-v21/CheckAccountV21.zip",
+      "fileName": "CheckAccountV21.zip",
+      "notes": "Check Account V21"
     },
     "proxy-sport": {
       "name": "Proxy Sport",
