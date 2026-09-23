@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "apps": {
     "vps-tool": {
-      "name": "VPS Tool",
-      "version": "31",
-      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v31/VPS-Tool-v31.zip",
-      "fileName": "VPS-Tool-v31.zip",
-      "notes": "VPS Tool V31"
+  "name": "VPS Tool",
+  "version": "32",
+  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v32/VPS-Tool-v32.zip",
+  "fileName": "VPS-Tool-v32.zip",
+  "notes": "VPS Tool V32"
     },
     "winner-auto-login": {
       "name": "Winner Auto Login",
