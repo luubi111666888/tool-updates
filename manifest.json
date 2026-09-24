@@ -24,10 +24,10 @@
     },
     "check-account": {
   "name": "Check Account",
-  "version": "23",
-  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/check-account-v23/CheckAccountV23.zip",
-  "fileName": "CheckAccountV23.zip",
-  "notes": "Check Account V23"
+  "version": "24",
+  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/check-account-v24/CheckAccountV24.zip",
+  "fileName": "CheckAccountV24.zip",
+  "notes": "Check Account V24"
 },
     "proxy-sport": {
       "name": "Proxy Sport",
