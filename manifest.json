@@ -3,10 +3,10 @@
   "apps": {
     "vps-tool": {
   "name": "VPS Tool",
-  "version": "35",
+  "version": "36",
   "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v35/VPS-Tool-v35.zip",
-  "fileName": "VPS-Tool-v35.zip",
-  "notes": "VPS Tool V35"
+  "fileName": "VPS-Tool-v36.zip",
+  "notes": "VPS Tool V36"
 },
     "winner-auto-login": {
       "name": "Winner Auto Login",
