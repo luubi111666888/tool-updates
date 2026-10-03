@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "apps": {
     "vps-tool": {
-  "name": "VPS Tool",
-  "version": "36",
-  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v36/VPS-Tool-v36.zip",
-  "fileName": "VPS-Tool-v36.zip",
-  "notes": "VPS Tool V36"
-},
+      "name": "VPS Tool",
+      "version": "38",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/vps-v38/VPS-Tool-v38.zip",
+      "fileName": "VPS-Tool-v38.zip",
+      "notes": "VPS Tool V38"
+    },
     "winner-auto-login": {
       "name": "Winner Auto Login",
       "version": "6",
@@ -23,18 +23,18 @@
       "notes": "Sports Manager V6"
     },
     "check-account": {
-  "name": "Check Account",
-  "version": "26",
-  "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/check-account-v26/CheckAccountV26.zip",
-  "fileName": "CheckAccountV26.zip",
-  "notes": "Check Account V26"
-},
+      "name": "Check Account",
+      "version": "26",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/check-account-v26/CheckAccountV26.zip",
+      "fileName": "CheckAccountV26.zip",
+      "notes": "Check Account V26"
+    },
     "proxy-sport": {
       "name": "Proxy Sport",
-      "version": "1",
-      "downloadUrl": "",
-      "fileName": "ProxySport-v1.zip",
-      "notes": ""
+      "version": "1.27.0",
+      "downloadUrl": "https://raw.githubusercontent.com/luubi111666888/tool-updates/main/Proxy_Sport_v1.27.0.zip",
+      "fileName": "Proxy_Sport_v1.27.0.zip",
+      "notes": "Proxy Sport V1.27.0"
     },
     "proxy-xoay": {
       "name": "Proxy Xoay",
