@@ -17,10 +17,10 @@
     },
     "sports-manager": {
       "name": "Sports Manager",
-      "version": "6",
-      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v6/SportsManager-v6.zip",
-      "fileName": "SportsManager-v6.zip",
-      "notes": "Sports Manager V6"
+      "version": "7",
+      "downloadUrl": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v7/SportsManager-v7.zip",
+      "fileName": "SportsManager-v7.zip",
+      "notes": "Sports Manager V7"
     },
     "check-account": {
       "name": "Check Account",
