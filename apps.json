@@ -19,11 +19,12 @@
       "type": "zip"
     },
     {
-      "name": "Sports Manager",
-      "version": "5.0",
-      "url": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v5/SportsManager-v5.zip",
-      "type": "zip"
-    },
+      {
+  "name": "Sports Manager",
+  "version": "8.0",
+  "url": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v8/Sports-Manager-V8.zip",
+  "type": "zip"
+},
     {
       "name": "Check Account",
       "version": "23.0",
