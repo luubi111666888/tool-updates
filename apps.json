@@ -7,12 +7,6 @@
       "type": "zip"
     },
     {
-      "name": "Winner AutoLogin",
-      "version": "5.0",
-      "url": "https://github.com/luubi111666888/tool-updates/releases/download/winner-v5/WinnerAutoLogin-v5.zip",
-      "type": "zip"
-    },
-    {
       "name": "Proxy Sport",
       "version": "1.11.0",
       "url": "https://github.com/luubi111666888/tool-updates/releases/download/proxy-sport-v1.11.0/Proxy_Sport.zip",
@@ -21,8 +15,8 @@
     {
       {
   "name": "Sports Manager",
-  "version": "9.0",
-  "url": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v9/Sports-Manager-V9.zip",
+  "version": "10",
+  "url": "https://github.com/luubi111666888/tool-updates/releases/download/sports-manager-v9/Sports-Manager-V10.zip",
   "type": "zip"
 },
     {
